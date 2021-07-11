@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class obstacleSpawner : MonoBehaviour
 {
-    public GameObject obstacle;
+    public GameObject obstacle; 
     // Start is called before the first frame update
     void Start()
     {
